@@ -1,7 +1,0 @@
-2019-04-02 05:11:44 ERROR  : ERROR:  syntax error at or near "user"
-LINE 1: alter table user
-                    ^
-2019-04-02 05:11:58 ERROR  : ERROR:  syntax error at or near "user"
-LINE 1: alter table user
-                    ^
-2019-04-02 05:13:45 ERROR  : ERROR:  column "last_updated_at" of relation "users" does not exist
